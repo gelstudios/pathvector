@@ -3,7 +3,7 @@ title: Support
 sidebar_position: 7
 ---
 
-Best-effort community support is available via GitHub. Please [open an issue](https://github.com/pathvector/pathvector/issues/new/choose) for any questions, bug reports, or feature requests.
+Best-effort community support is available via GitHub. Please [open an issue](https://github.com/natesales/pathvector/issues) for any questions, bug reports, or feature requests.
 
 *Has Pathvector helped automate your network? Support the project on [GitHub Sponsors](https://github.com/sponsors/natesales). A small donation goes a long way to keep Pathvector sustainable and free for everyone.*
 
