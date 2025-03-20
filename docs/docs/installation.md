@@ -121,7 +121,7 @@ docker build --output type=tar,dest=pathvector-mikrotik-arm64v8.tar -t pathvecto
 ## Building from source
 
 Pathvector can be easily built from source for some, but not all, of
-the [many supported Go platforms](https://github.com/golang/go/blob/master/src/go/build/syslist.go).
+the [many supported Go platforms](https://github.com/golang/go/blob/master/src/internal/syslist/syslist.go).
 
 For example, to build Pathvector for M1 Macs:
 
